@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/movies-clone-website/static/css/main.306adde5.css",
+    "main.js": "/movies-clone-website/static/js/main.366ce915.js",
+    "static/media/movies-clone.PNG": "/movies-clone-website/static/media/movies-clone.18623aac8661d49c4f14.PNG",
+    "static/media/resturent.PNG": "/movies-clone-website/static/media/resturent.38bd4b34a31f6f240dfe.PNG",
+    "static/media/property-update.png": "/movies-clone-website/static/media/property-update.917f5113bd4e750465f2.png",
+    "static/media/fence-img-update.png": "/movies-clone-website/static/media/fence-img-update.908d522281189dbf542e.png",
+    "static/media/shopping-update.png": "/movies-clone-website/static/media/shopping-update.a3da35fc1322e45715c8.png",
+    "static/media/wahab-pic-update.png": "/movies-clone-website/static/media/wahab-pic-update.a9ba4347fc0ade743d36.png",
+    "static/media/Portfolio.pdf": "/movies-clone-website/static/media/Portfolio.6923db0e113589a83e13.pdf",
+    "static/media/profile3new.jpeg": "/movies-clone-website/static/media/profile3new.5ab0a2fb9a3432c2ee9e.jpeg",
+    "index.html": "/movies-clone-website/index.html",
+    "main.306adde5.css.map": "/movies-clone-website/static/css/main.306adde5.css.map",
+    "main.366ce915.js.map": "/movies-clone-website/static/js/main.366ce915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306adde5.css",
+    "static/js/main.366ce915.js"
+  ]
+}
